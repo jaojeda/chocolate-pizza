@@ -17,6 +17,41 @@ header, footer, main {
     grid-column: 2;
 }
 
+p {
+    font-size: 20px;
+    text-indent: 30px;
+}
+
+.icons {
+    list-style: none;
+    display: inline;
+ }
+ .image-hr {
+   background-image: url(./lab-assets/hr-img.png);
+   width: 100%;
+   height: 15px;
+ }
+ .ingredients {
+    background-image: url(./lab-assets/list-bg.png)
+ }
+ .print {
+    float: right;
+ }
+ h2 {
+    font-size: 15px;
+ }
+ h1 {
+    font-size: 40px;
+    line-height: 1px;
+    margin-top: 60px;
+ }
+ .icons {
+    float: left;
+ }
+ .header {
+    font-size: 30px;
+ }
+
 .icons {
     display: inline;
 }
